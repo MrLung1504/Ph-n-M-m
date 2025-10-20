@@ -1,0 +1,5 @@
+{
+  "name": "AI Ra Đề Kiểm Tra Tự Động",
+  "description": "An AI-powered web application that allows teachers to upload source material, configure question types, and automatically generate custom exams.",
+  "requestFramePermissions": []
+}
