@@ -1,5 +1,6 @@
 {
   "name": "2 HỆ THỐNG AI TẠO ĐỀ",
   "description": "Một hệ thống AI giúp giáo viên tạo đề kiểm tra và ôn tập một cách nhanh chóng từ tài liệu được cung cấp.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
